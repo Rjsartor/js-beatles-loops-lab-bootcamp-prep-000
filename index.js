@@ -1,6 +1,9 @@
 // add solution here
 function theBeatlesPlay(musiciansArray, instrumentsArray) {
-  musiciansArray.forEach(musician) => {
-    
-  }
+  newArray = []
+  musiciansArray.forEach((musician) => {
+    instrumentsArray.forEach((instrument) => {
+      newArray()
+    })
+  })
 }
