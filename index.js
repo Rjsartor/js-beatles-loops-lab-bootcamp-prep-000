@@ -1,4 +1,4 @@
 // add solution here
 function theBeatlesPlay(musiciansArray, instrumentsArray) {
-  musiciansArray.forEach 
+  musiciansArray.forEach(musician) 
 }
