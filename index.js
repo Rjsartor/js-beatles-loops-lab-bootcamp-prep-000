@@ -3,7 +3,7 @@ function theBeatlesPlay(musiciansArray, instrumentsArray) {
  let newArray = []
   musiciansArray.forEach((musician) => {
     instrumentsArray.forEach((instrument) => {
-      newArray.push(`${musician[0]} plays ${instrument[0]}`)
+      newArray.push(`${musician} plays ${instrument}`)
     })
   })
   return newArray
